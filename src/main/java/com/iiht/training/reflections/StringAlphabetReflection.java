@@ -16,7 +16,7 @@ public class StringAlphabetReflection {
 
 	public  String findReflection(String message) {
 		// Write Code Here
-		return null;
+		return "";
 	}
 
 }
